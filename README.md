@@ -25,3 +25,11 @@
 ---
 
 ⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar meus projetos!*
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/LGSchnaider/github-contribution-grid-snake/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
