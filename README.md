@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://..." alt="Banner">
-</p>
+<td style="background-color:white">
 
 # 👋 Olá, eu sou o Luiz Schnaider!
 
