@@ -8,7 +8,7 @@
   <img align="center" alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Unity" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
   <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Godot" height="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZ5CXwMtFG3-0zyY_PzzRklzUYw32WR1vIjNlSiyy2g&s=10)"/>
+  <img align="center" alt="Godot" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
 </div>
 
 ---
