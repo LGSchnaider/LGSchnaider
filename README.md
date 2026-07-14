@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://..." alt="Banner">
+</p>
+
 # 👋 Olá, eu sou o Luiz Schnaider!
 
 ---
