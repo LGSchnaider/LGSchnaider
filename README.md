@@ -1,5 +1,3 @@
-<td style="background-color:white">
-
 # 👋 Olá, eu sou o Luiz Schnaider!
 
 ---
