@@ -8,6 +8,7 @@
   <img align="center" alt="JS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Unity" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
   <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Godot" height="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZ5CXwMtFG3-0zyY_PzzRklzUYw32WR1vIjNlSiyy2g&s=10)"/>
 </div>
 
 ---
@@ -20,10 +21,6 @@
   &nbsp;
 <a href="https://www.linkedin.com/in/lgschnaider" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lgschnaider" target="_blank">
-  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://play-lh.googleusercontent.com/jtnKR8la8qdXZcifwvJU0hos0FN6a3UIaCtM8nUQEVd5BIM4tP5OPMAZJIbs5rLjeglwyQiiUsRrA9S9RSJh-w)"/>
 </a>
 
 ---
