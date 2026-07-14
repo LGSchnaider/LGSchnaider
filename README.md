@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/lgschnaider" target="_blank">
+  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://play-lh.googleusercontent.com/jtnKR8la8qdXZcifwvJU0hos0FN6a3UIaCtM8nUQEVd5BIM4tP5OPMAZJIbs5rLjeglwyQiiUsRrA9S9RSJh-w)"/>
+</a>
+
 ---
 
 ⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar meus projetos!*
